@@ -45,6 +45,8 @@ main / frontend / public
 * encryption important data
 * hacks - spellcheck, Hyperscript
 
++++
+
 ### mozilla observatory
 
 +++?image=sugar/img/mobservatory-sugar.png&size=auto
@@ -52,6 +54,8 @@ main / frontend / public
 +++?image=sugar/img/mobservatory-sber.png&size=auto
 
 +++?image=sugar/img/mobservatory-wc.png&size=auto
+
++++
 
 ### Data metrics / main
 
@@ -65,7 +69,7 @@ main / frontend / public
 
 ## Architecture
 
-+++?image=sugar/img/structire.png&size=auto
++++?image=sugar/img/structure.png&size=auto
 
 +++
 
