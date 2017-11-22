@@ -40,29 +40,29 @@ main / frontend / public
 
 ##### mozilla observatory / sugar
 
-+++?image=sugar/img/mobservatory-sugar.jpeg&size=auto
+?image=sugar/img/mobservatory-sugar.png&size=auto
 
 +++
 
 ##### mozilla observatory / online.sberbank.ru
 
-+++?image=sugar/img/mobservatory-sber.png&size=auto
+?image=sugar/img/mobservatory-sber.png&size=auto
 
 +++
 
 ##### mozilla observatory / web-canape.ru
 
-+++?image=sugar/img/mobservatory-wc.png&size=auto
+?image=sugar/img/mobservatory-wc.png&size=auto
 
 +++
 
 #### Data metrics / main
 
-* entities total `8`
-* users `61`
-* clients `1117`
-* projects `2965`
-* messages `3066`
+* 8 entities total 
+* 61 users
+* 1117 clients
+* 2965 projects
+* 3066 messages
 
 ---
 
