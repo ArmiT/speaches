@@ -14,11 +14,11 @@ Safe storage for important data
 
 ### What it can?
 
-* Encrypt and decrypt messages and credentials
-* User authorization by oauth
-* Manage clients, projects, sites, messages and credentials
-* Enhanced search
-* Secure communication between clients and company
+* encrypt and decrypt messages and credentials
+* user Authentication with OAuth
+* manage clients, projects, sites, messages and credentials
+* enhanced search
+* secure communication between clients and company
 
 ---
 
@@ -29,10 +29,10 @@ Safe storage for important data
 ### Code metrics
 
 main / frontend / public
-* cc  1.03 / 1.13 / 1.04
-* %cp 3.62 / 5.65 / 3.01
-* clc 15684 / 13130 / 2226
-* %coverage 87.1 / 89.44 / 88.5
+* cc  1.03 / 1.15 / 1.04
+* %cp 3.62 / 3.65 / 3.01
+* clc 15684 / 12862 / 2226
+* %coverage 87.1 / 89.21 / 88.5
 
 +++
 
@@ -42,7 +42,7 @@ main / frontend / public
 * hard csp settings
 * cors
 * X-headers
-* encryption important data
+* securing data with encryption
 * hacks - spellcheck, Hyperscript, direct loading, rel="nooppener noreferer"
 
 +++
@@ -69,13 +69,9 @@ main / frontend / public
 
 ## Architecture
 
-### Structure
-
 +++?image=sugar/img/structure.png&size=auto
 
 +++
-
-### Security concept
 
 +++?image=sugar/img/security-concept.png&size=auto
 
@@ -83,7 +79,7 @@ main / frontend / public
 
 ### Algorithms
 
-* keys pair - RSA 4096
+* keys pairs - RSA 4096
 * symmetric encryption - AES256 (CBC & GSM)
 
 +++
@@ -99,10 +95,6 @@ main / frontend / public
 * credentials
 * encryptedPayload
 
-+++
-
-+++?image=sugar/img/app-architecture.png&size=auto
-
 ---
 
 ## Tech stack
@@ -113,7 +105,11 @@ main / frontend / public
 * nginx
 * docker
 
----
++++?image=sugar/img/clean-architecture2.jpeg&size=auto
+
++++?image=sugar/img/clean-architecture.png&size=auto
+
++++?image=sugar/img/app-architecture.png&size=auto
 
 ## Flow
 
