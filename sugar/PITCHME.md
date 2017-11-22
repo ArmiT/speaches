@@ -111,6 +111,8 @@ main / frontend / public
 
 +++?image=sugar/img/app-architecture.png&size=auto
 
++++?image=sugar/img/files.png&size=auto
+
 ## Flow
 
 * 
