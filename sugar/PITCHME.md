@@ -71,8 +71,6 @@ main / frontend / public
 
 +++?image=sugar/img/structure.png&size=auto
 
-+++
-
 +++?image=sugar/img/security-concept.png&size=auto
 
 +++
