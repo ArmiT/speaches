@@ -28,11 +28,11 @@ Safe storage for important data
 
 #### Code metrics
 
-main/frontend/public
-* cc 1.03//1.04
-* %cp 3.62//3.01
-* clc 15684//2226
-* %coverage 87.1//88.5
+main / frontend / public
+* cc `1.03` // `1.04`
+* %cp 3.62 // 3.01
+* clc 15684 // 2226
+* %coverage 87.1 // 88.5
 
 +++
 
@@ -40,29 +40,29 @@ main/frontend/public
 
 ##### mozilla observatory / sugar
 
-?image=sugar/img/mobservatory-sugar.jpeg&size=contain
++++?image=sugar/img/mobservatory-sugar.jpeg&size=contain
 
 +++
 
 ##### mozilla observatory / web-canape.ru
 
-?image=sugar/img/mobservatory-wc.jpeg&size=contain
++++?image=sugar/img/mobservatory-wc.jpeg&size=contain
 
 +++
 
 ##### mozilla observatory / online.sberbank.ru
 
-?image=sugar/img/mobservatory-wc.jpeg&size=contain
++++?image=sugar/img/mobservatory-wc.jpeg&size=contain
 
 +++
 
 #### Data metrics / main
 
-* entities total 8
-* users 61
-* clients 1117
-* projects 2965
-* messages 3066
+* entities total `8`
+* users `61`
+* clients `1117`
+* projects `2965`
+* messages `3066`
 
 ---
 
