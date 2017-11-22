@@ -116,7 +116,7 @@ coverage |   87.1% | 89.21% | 88.5%
 
 +++
 
-## docker / containerization
+## containerization
 
 * used docker-compose bundles
 * lightweight, alpine based images
