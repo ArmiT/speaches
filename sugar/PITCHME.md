@@ -40,19 +40,19 @@ main / frontend / public
 
 ##### mozilla observatory / sugar
 
-+++?image=sugar/img/mobservatory-sugar.jpeg
++++?image=sugar/img/mobservatory-sugar.jpeg&size=auto
 
 +++
 
 ##### mozilla observatory / online.sberbank.ru
 
-+++?image=sugar/img/mobservatory-sber.png&size=contain
++++?image=sugar/img/mobservatory-sber.png&size=auto
 
 +++
 
 ##### mozilla observatory / web-canape.ru
 
-+++?image=sugar/img/mobservatory-wc.png&size=contain
++++?image=sugar/img/mobservatory-wc.png&size=auto
 
 +++
 
