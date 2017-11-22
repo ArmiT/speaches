@@ -2,7 +2,7 @@
 
 ---
 
-### Introduction
+## Introduction
 
 +++
 
@@ -22,41 +22,38 @@ Safe storage for important data
 
 ---
 
-### Some abstracts
+## Some abstracts
 
 +++
 
-#### Code metrics
+### Code metrics
 
 main / frontend / public
-* cc `1.03` // `1.04`
-* %cp 3.62 // 3.01
-* clc 15684 // 2226
-* %coverage 87.1 // 88.5
+* cc  1.03 / 1.13 / 1.04
+* %cp 3.62 / 5.65 / 3.01
+* clc 15684 / 13130 / 2226
+* %coverage 87.1 / 89.44 / 88.5
 
 +++
 
-#### security metrics
+### security metrics
 
-##### mozilla observatory / sugar
+* tls everywhere
+* hard csp settings
+* cors
+* X-headers
+* encryption important data
+* hacks - spellcheck, Hyperscript
 
-![report](?image=sugar/img/mobservatory-sugar.png&size=auto)
+### mozilla observatory
 
-+++
++++?image=sugar/img/mobservatory-sugar.png&size=auto
 
-##### mozilla observatory / online.sberbank.ru
++++?image=sugar/img/mobservatory-sber.png&size=auto
 
----?image=sugar/img/mobservatory-sber.png&size=auto
++++?image=sugar/img/mobservatory-wc.png&size=auto
 
-+++
-
-##### mozilla observatory / web-canape.ru
-
----?image=sugar/img/mobservatory-wc.png&size=auto
-
-+++
-
-#### Data metrics / main
+### Data metrics / main
 
 * 8 entities total 
 * 61 users
@@ -66,11 +63,9 @@ main / frontend / public
 
 ---
 
-### Architecture
+## Architecture
 
-+++
-
-#### Components
++++?image=sugar/img/structire.png&size=auto
 
 +++
 
