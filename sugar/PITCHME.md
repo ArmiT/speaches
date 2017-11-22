@@ -30,7 +30,7 @@ Safe storage for important data
 
 metric | main | front | public
 -------|------|-------|-------
-code | lines 15684 | 12862  | 2226
+code lines | 15684 | 12862  | 2226
 complexity | 1.03  | 1.15   | 1.04
 copy-paste | 3.62% | 3.65%  | 3.01%
 coverage |   87.1% | 89.21% | 88.5%
