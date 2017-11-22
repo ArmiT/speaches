@@ -43,7 +43,7 @@ main / frontend / public
 * cors
 * X-headers
 * encryption important data
-* hacks - spellcheck, Hyperscript
+* hacks - spellcheck, Hyperscript, direct loading
 
 +++
 
@@ -71,10 +71,28 @@ main / frontend / public
 
 +++?image=sugar/img/structure.png&size=auto
 
+---
+
+## Security concept
+
++++?image=sugar/img/security-concept.png&size=auto
+
 +++
 
-#### Interaction
+### Algorithms & libs
 
+* keys pair - RSA 4096
+* symmetric encryption - AES256 (CBC & GSM)
 
+---
 
-+++
+## Data model
+
+* users
+* clients
+ * projects
+  * messages
+  * sites
+   * domains
+* credentials
+* encryptedPayload
