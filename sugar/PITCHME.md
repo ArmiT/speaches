@@ -105,9 +105,9 @@ main / frontend / public
 * nginx
 * docker
 
-+++?image=sugar/img/clean-architecture2.jpeg&size=auto
-
 +++?image=sugar/img/clean-architecture.png&size=auto
+
++++?image=sugar/img/clean-architecture2.jpg&size=auto
 
 +++?image=sugar/img/app-architecture.png&size=auto
 
