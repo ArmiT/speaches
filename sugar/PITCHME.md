@@ -40,7 +40,7 @@ main / frontend / public
 
 ##### mozilla observatory / sugar
 
-+++?image=sugar/img/mobservatory-sugar.jpeg&size=contain
++++?image=sugar/img/mobservatory-sugar.jpeg
 
 +++
 
