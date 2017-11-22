@@ -44,15 +44,15 @@ main / frontend / public
 
 +++
 
-##### mozilla observatory / web-canape.ru
+##### mozilla observatory / online.sberbank.ru
 
-+++?image=sugar/img/mobservatory-wc.jpeg&size=contain
++++?image=sugar/img/mobservatory-sber.png&size=contain
 
 +++
 
-##### mozilla observatory / online.sberbank.ru
+##### mozilla observatory / web-canape.ru
 
-+++?image=sugar/img/mobservatory-wc.jpeg&size=contain
++++?image=sugar/img/mobservatory-wc.png&size=contain
 
 +++
 
