@@ -114,6 +114,18 @@ coverage |   87.1% | 89.21% | 88.5%
 
 +++
 
++++
+
+## docker / containerization
+
+* used docker-compose bundles
+* lightweight, alpine based images
+* official and own images [hub.docker.com/r/twinscom](https://hub.docker.com/r/twinscom/)
+
++++?image=sugar/img/ddc-bundle.png&size=auto
+
+---
+
 ## Flow
 
 +++?image=sugar/img/flow.png&size=auto 
