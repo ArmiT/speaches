@@ -43,7 +43,7 @@ main / frontend / public
 * cors
 * X-headers
 * encryption important data
-* hacks - spellcheck, Hyperscript, direct loading
+* hacks - spellcheck, Hyperscript, direct loading, rel="nooppener noreferer"
 
 +++
 
@@ -69,24 +69,26 @@ main / frontend / public
 
 ## Architecture
 
+### Structure
+
 +++?image=sugar/img/structure.png&size=auto
 
----
++++
 
-## Security concept
+### Security concept
 
 +++?image=sugar/img/security-concept.png&size=auto
 
 +++
 
-### Algorithms & libs
+### Algorithms
 
 * keys pair - RSA 4096
 * symmetric encryption - AES256 (CBC & GSM)
 
----
++++
 
-## Data model
+### Data model
 
 * users
 * clients
@@ -96,3 +98,23 @@ main / frontend / public
    * domains
 * credentials
 * encryptedPayload
+
++++
+
++++?image=sugar/img/app-architecture.png&size=auto
+
+---
+
+## Tech stack
+
+* javascript (node-boilerplate, spa-boilerplate)
+* html (Hyperscript), pure css
+* rethinkdb, redis
+* nginx
+* docker
+
+---
+
+## Flow
+
+* 
