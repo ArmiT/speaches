@@ -114,8 +114,6 @@ coverage |   87.1% | 89.21% | 88.5%
 
 +++
 
-+++
-
 ## containerization
 
 * used docker-compose bundles
