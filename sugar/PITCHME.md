@@ -28,8 +28,8 @@ Safe storage for important data
 
 ### Code metrics
 
-| main | front | public
-|------|-------|-------
+metric | main | front | public
+-------|------|-------|-------
 code | lines 15684 | 12862  | 2226
 complexity | 1.03  | 1.15   | 1.04
 copy-paste | 3.62% | 3.65%  | 3.01%
