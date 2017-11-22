@@ -17,7 +17,9 @@ Safe storage for important data
 * Encrypt and decrypt messages and credentials
 * User authorization by oauth
 * Manage clients, projects, sites, messages and credentials
-* 
+* Enhanced search
+* Secure communication between clients and company
+
 ---
 
 ### Some abstracts
@@ -26,33 +28,41 @@ Safe storage for important data
 
 #### Code metrics
 
-* cc 
-* cpi
-* clc
-* coverage
+main/frontend/public
+* cc 1.03//1.04
+* %cp 3.62//3.01
+* clc 15684//2226
+* %coverage 87.1//88.5
 
 +++
 
 #### security metrics
 
-* mozilla observatory rate
-* ssl labs rate
-* csp
-* spellcheck
+##### mozilla observatory / sugar
+
+?image=sugar/img/mobservatory-sugar.jpeg&size=contain
 
 +++
 
-#### Data metrics
+##### mozilla observatory / web-canape.ru
 
-* entities count
-* 
+?image=sugar/img/mobservatory-wc.jpeg&size=contain
 
 +++
 
-#### Other
+##### mozilla observatory / online.sberbank.ru
 
-* users
-* 
+?image=sugar/img/mobservatory-wc.jpeg&size=contain
+
++++
+
+#### Data metrics / main
+
+* entities total 8
+* users 61
+* clients 1117
+* projects 2965
+* messages 3066
 
 ---
 
