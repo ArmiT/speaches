@@ -39,12 +39,13 @@ coverage |   87.1% | 89.21% | 88.5%
 
 ### security metrics
 
-* tls everywhere
-* hard csp settings
+* tls
+* csp
 * cors
+* subresource integrity
 * X-headers
 * securing data with encryption
-* hacks - spellcheck, Hyperscript, direct loading, rel="nooppener noreferer"
+* spellcheck, Hyperscript, direct loading, rel="nooppener noreferer"
 
 +++
 
@@ -72,16 +73,7 @@ coverage |   87.1% | 89.21% | 88.5%
 
 +++?image=sugar/img/structure.png&size=auto
 
-+++?image=sugar/img/security-concept.png&size=auto
-
-+++
-
-### Algorithms
-
-* keys pairs - RSA 4096
-* symmetric encryption - AES256 (CBC & GSM)
-
-+++
++++ 
 
 ### Data model
 
@@ -93,6 +85,15 @@ coverage |   87.1% | 89.21% | 88.5%
    * domains
 * credentials
 * encryptedPayload
+
++++?image=sugar/img/security-concept.png&size=auto
+
++++
+
+### Algorithms
+
+* keys pairs - RSA 4096
+* symmetric encryption - AES256 (CBC & GSM)
 
 ---
 
@@ -111,6 +112,30 @@ coverage |   87.1% | 89.21% | 88.5%
 +++?image=sugar/img/app-architecture.png&size=auto
 
 +++?image=sugar/img/files-structure.png&size=auto
+
++++
+
+## javascript / ECMAScript 6
+
+* constants
+* arrow functions
+* template literals 
+* property shorthand
+* method properties
+* destructuring assignment
+* promises
+
++++
+
+# javscript / functional programming
+
+* immutable variables
+* curried functions
+* higher-order Functions
+* function composition
+* pure functions
+* functors
+* idempotent
 
 +++
 
