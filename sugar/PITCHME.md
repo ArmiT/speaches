@@ -115,7 +115,7 @@ coverage |   87.1% | 89.21% | 88.5%
 
 +++
 
-## javascript / ECMAScript 6
+### js / ES6
 
 * constants
 * arrow functions
@@ -127,7 +127,7 @@ coverage |   87.1% | 89.21% | 88.5%
 
 +++
 
-# javscript / functional programming
+### js / fp
 
 * immutable variables
 * curried functions
@@ -139,7 +139,7 @@ coverage |   87.1% | 89.21% | 88.5%
 
 +++
 
-## containerization
+### containerization
 
 * used docker-compose bundles
 * lightweight, alpine based images
